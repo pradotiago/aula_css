@@ -1,0 +1,22 @@
+body{
+    background: red;
+}
+
+p{
+    font-size: 22px;
+    font-family: 'calibri';
+}
+
+p.formato{
+    font-size: 12px;
+    font-family: 'courier new';
+}
+
+.centro{
+    text-align: center;
+}
+
+h3,h4,h5{
+    font-size: 30px;
+    font-family: georgia;
+}
